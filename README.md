@@ -1,5 +1,11 @@
 # Usage
 
+Gemfile:
+
+```ruby
+gem 'material_design_icons_rails'
+```
+
 CSS:
 
 ``` css
@@ -9,7 +15,7 @@ CSS:
  */
 ```
 
-View:
+HTML:
 
 ```html
 <style>
